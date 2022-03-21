@@ -7,16 +7,21 @@ Comparing the following:
 
 -bow vectors
 
--count vectors
-
 -tfidf vectors
 
 -word2vec vectors
 
--fastText vectors 
+-fastText vectors (if time allows)
 
 -glove vectors (if time allows)
 
 -LSTM vectors
 
 -BERT vectors
+
+The Notebooks go in the following order:
+1st) A history of Vectorizers
+2nd) Initial Data Exploration
+3rd) Early Vectorizers
+4th) LSTM Embeds
+5th) BERT
